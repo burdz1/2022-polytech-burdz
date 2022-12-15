@@ -1,2 +1,2 @@
-Line search time: 3.5e-07 seconds
-Binary search time: 3.5e-07 seconds
+Время выполнения линейного поиска: 0.002s  
+Время выполнения бинарного поиска: 0.001s  
